@@ -3,23 +3,31 @@
 Education
 
 B.Tech in Computer Science Engineering
+
 Shri Vaishnav Institute of Information Technology
+
 2020 - Present
 
 Senior Secondary Education
+
 Sarafa Vidya Niketan Girls Higher Secondary School
+
 2019 - 2020
 
 Higher Secondary Education
+
 Sarafa Vidya Niketan Girls Higher Secondary School
+
 2017 - 2018
 
 Work Experience:
 
 SyntHeim - Software Developer Intern
+
 06/2023 - present
 
 OASIS Infotbyte - Web Development and Design Intern
+
 12/2022 - 01/2023
 
 Projects:

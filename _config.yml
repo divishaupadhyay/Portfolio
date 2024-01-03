@@ -1,2 +1,13 @@
 title: Divisha Upadhyay
+logo: "/IMG_20220817_034302_536.jpg"
+description: >
+  <br>
+  Software Engineer 
+  <br>
+  <a href="https:www.linkedin.com/in/divisha-upadhyay-851a4a1b1">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dicishaupadhyay2@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 theme: jekyll-theme-minimal
